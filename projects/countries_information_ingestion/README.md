@@ -51,6 +51,12 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
   - This allows people to understand the ETL/ELT from a first look.
 - Visible collaboration among team should be balanced reasonably 
   - Meaning, all members must contribute
+ 
+# GRADING METRICS
+- Code best practices
+- Choice of tools
+- Document the thought process and the reason for architectural design and choice tools
+- How easy to run the code submitted
 
 
 
