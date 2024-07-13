@@ -42,7 +42,7 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
   - Top 5 countries with the lowest Area
 
 # BONUS
-- Present the above questions in a BI tool ( NOT MANDATORY )
+- Present the above questions in any Visualization tool ( NOT MANDATORY )
 
 # PROJECT REQUIREMENTS
 - Dedicated git repository needs to be created for the project
