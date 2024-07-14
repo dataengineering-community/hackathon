@@ -55,7 +55,7 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
 # GRADING METRICS
 - Code best practices
 - Choice of tools
-- Document the thought process and the reason for architectural design and choice tools
+- Document the thought process and the reason for architectural design and choice of tools
 - How easy to run the code submitted
 
 
