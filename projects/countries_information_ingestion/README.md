@@ -55,8 +55,11 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
 # GRADING METRICS
 - Code best practices
 - Choice of tools
-- Document the thought process and the reason for architectural design and choice of tools
+- Document the thougbiht process and the reason for architectural design and choice of tools
 - How easy to run the code submitted
+
+# MEANS OF SUBMISSION
+Share the github repositorty containing the solution to the Hackathon case study, the link will be shared before the end of the Hackathon.
 
 
 
