@@ -46,7 +46,7 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
 
 # PROJECT REQUIREMENTS
 - Dedicated git repository needs to be created for the project
-- Decent ReadMe should be included in the Git repository
+- Decent ReadMe should be included in the Git repository as means of Documentation 
 - Have an architecture flow as part of the ReadMe 
   - This allows people to understand the ETL/ELT from a first look.
 - Visible collaboration among team should be balanced reasonably 
