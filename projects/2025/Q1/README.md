@@ -24,7 +24,6 @@ To address this problem, we aim to build a scalable data pipeline that automates
 
 ### Scalability & Automation
 - Deploy an ETL (Extract, Transform, Load) pipeline to run on a schedule.
-- Ensure the system can handle increasing API request loads efficiently.
 
 ### Data Accessibility & Visualization
 - Develop a well-documented warehouse schema which showcases your data modelling prowess. Ensure it is comprehensive for a data analyst who intends to use the warehouse.
